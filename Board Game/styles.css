@@ -29,3 +29,27 @@ h1{
     font-size: 20px;
     cursor: pointer;
 }
+
+/*Players turn*/
+#print {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #FF731D ;
+    font-size: 20px;
+}
+
+
+#main{
+    text-align: center;
+}
+
+/*game instructions*/
+#ins{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    color:#5F9DF7;
+    font-size: 17px;
+}
+
+body{
+    background-color: #DFF6FF;
+}

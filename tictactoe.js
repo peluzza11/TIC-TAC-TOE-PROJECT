@@ -37,7 +37,7 @@ function myfunc() {
         document.getElementById("b9").disabled = true;
         window.alert('Plater X won');
     }
-    if ((b7 == 'x' || b7 =='X') && (b8 == 'x'|| b8=='X') && (b9 == 'x' || b9 == 'X')) {
+   else if ((b7 == 'x' || b7 =='X') && (b8 == 'x'|| b8=='X') && (b9 == 'x' || b9 == 'X')) {
         document.getElementById('print')
         .innerHTML = "Player X won";
         document.getElementById("b1").disabled = true;
@@ -48,7 +48,7 @@ function myfunc() {
         document.getElementById("b6").disabled = true;
         window.alert('Plater X won');
     }
-    if ((b3 == 'x' || b3 =='X') && (b6 == 'x'|| b6 =='X') && (b9 == 'x' || b9 == 'X')) {
+   else if ((b3 == 'x' || b3 =='X') && (b6 == 'x'|| b6 =='X') && (b9 == 'x' || b9 == 'X')) {
         document.getElementById('print')
         .innerHTML = "Player X won";
         document.getElementById("b1").disabled = true;
@@ -59,7 +59,7 @@ function myfunc() {
         document.getElementById("b8").disabled = true;
         window.alert('Plater X won');
     }
-    if ((b1 == 'x' || b1 =='X') && (b5 == 'x'|| b5=='X') && (b9 == 'x' || b9 == 'X')) {
+   else if ((b1 == 'x' || b1 =='X') && (b5 == 'x'|| b5=='X') && (b9 == 'x' || b9 == 'X')) {
         document.getElementById('print')
         .innerHTML = "Player X won";
         document.getElementById("b2").disabled = true;
@@ -70,7 +70,7 @@ function myfunc() {
         document.getElementById("b8").disabled = true;
         window.alert('Plater X won');
     }
-    if ((b3 == 'x' || b3 =='X') && (b5 == 'x'|| b5=='X') && (b7 == 'x' || b7 == 'X')) {
+   else if ((b3 == 'x' || b3 =='X') && (b5 == 'x'|| b5=='X') && (b7 == 'x' || b7 == 'X')) {
         document.getElementById('print')
         .innerHTML = "Player X won";
         document.getElementById("b1").disabled = true;
@@ -81,7 +81,7 @@ function myfunc() {
         document.getElementById("b9").disabled = true;
         window.alert('Plater X won');
     }
-    if ((b2 == 'x' || b2 =='X') && (b5 == 'x'|| b5=='X') && (b8 == 'x' || b8 == 'X')) {
+   else if ((b2 == 'x' || b2 =='X') && (b5 == 'x'|| b5=='X') && (b8 == 'x' || b8 == 'X')) {
         document.getElementById('print')
         .innerHTML = "Player X won";
         document.getElementById("b1").disabled = true;
@@ -92,7 +92,7 @@ function myfunc() {
         document.getElementById("b9").disabled = true;
         window.alert('Plater X won');
     }
-    if ((b4 == 'x' || b4 =='X') && (b5 == 'x'|| b5=='X') && (b6 == 'x' || b6 == 'X')) {
+   else if ((b4 == 'x' || b4 =='X') && (b5 == 'x'|| b5=='X') && (b6 == 'x' || b6 == 'X')) {
         document.getElementById('print')
         .innerHTML = "Player X won";
         document.getElementById("b1").disabled = true;

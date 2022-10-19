@@ -234,6 +234,8 @@ function myfunc_2(){
     document.getElementById('b9').value = '';
 }
 
+//starting here, functions check turn of the player 
+//and put accordingly value X or O
 flag = 1;
 function myfunc_3(){
     if (flag == 1){
